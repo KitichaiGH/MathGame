@@ -1,0 +1,30 @@
+h1{
+    display: flex;
+    justify-content: center;
+}
+.mathContainers{
+    display: block;
+    border: solid black;
+}
+div{
+    display: flex;
+    justify-content: center;
+}
+#question{
+    padding: 20px; 
+}
+button{
+    display: flex;
+    justify-content: center;
+}
+#buttonInteraction{
+    display: flex;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    gap:20px;
+    justify-content: center;
+}
+#point{
+    display: flex;
+    justify-content: end;
+}
